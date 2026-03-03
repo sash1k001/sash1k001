@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет! Я turaev 👋
 
-<!--
-**sash1k001/sash1k001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик, специализирующийся на создании масштабируемых и типобезопасных систем.
 
-Here are some ideas to get you started:
+### 🛠 Мой основной стек:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Чем я занимаюсь:
+* 🏗️ Проектирую архитектуру на **NestJS**.
+* 📊 Работаю с базами данных через **Prisma ORM** и **PostgreSQL**.
+* 💻 Пишу чистый, поддерживаемый код на **TypeScript**.
+
+### 📫 Как со мной связаться:
+* **GitHub:** [turaev](https://github.com/turaev)
+---
+
+### 📊 Моя статистика:
+![turaev's GitHub stats](https://github-readme-stats.vercel.app/api?username=turaev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turaev&layout=compact&theme=radical)

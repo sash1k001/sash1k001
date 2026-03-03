@@ -16,9 +16,9 @@ Backend-разработчик, специализирующийся на соз
 * 💻 Пишу чистый, поддерживаемый код на **TypeScript**.
 
 ### 📫 Как со мной связаться:
-* **GitHub:** [turaev](https://github.com/turaev)
+* **TG:** [sash1k](https://t.me/sash1k)
 ---
 
 ### 📊 Моя статистика:
-![turaev's GitHub stats](https://github-readme-stats.vercel.app/api?username=turaev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turaev&layout=compact&theme=radical)
+![turaev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sash1k001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sash1k001&layout=compact&theme=radical)

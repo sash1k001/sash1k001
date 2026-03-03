@@ -20,8 +20,8 @@ Backend-разработчик, специализирующийся на соз
 ---
 
 ### 📊 Моя статистика:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=turaev&show_icons=true&theme=radical&hide_border=true" alt="turaev's GitHub stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turaev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/sash1k001/sash1k001/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/sash1k001/sash1k001/main/output/stats_langs.svg">
+</picture>

@@ -18,10 +18,3 @@ Backend-разработчик, специализирующийся на соз
 ### 📫 Как со мной связаться:
 * **TG:** [sash1k](https://t.me/sash1k)
 ---
-
-### 📊 Моя статистика:
-<!-- Statistics: Programming languages -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/sash1k001/sash1k001/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/sash1k001/sash1k001/main/output/stats_langs.svg">
-</picture>

@@ -1,4 +1,4 @@
-# Привет! Я turaev 👋
+# Привет! Я sash1k 👋
 
 Backend-разработчик, специализирующийся на создании масштабируемых и типобезопасных систем.
 
@@ -20,5 +20,8 @@ Backend-разработчик, специализирующийся на соз
 ---
 
 ### 📊 Моя статистика:
-![turaev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sash1k001&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sash1k001&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=turaev&show_icons=true&theme=radical&hide_border=true" alt="turaev's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turaev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
